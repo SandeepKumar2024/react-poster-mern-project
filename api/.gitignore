@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment Variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Database
+*.sqlite
+dump.rdb
+
+# Build
+build/
+
+# Temporary Files
+.tmp/
+.temp/
+.DS_Store
+
+# Coverage
+coverage/
+
+# Miscellaneous
+*.swp
+*.swo
+
+# API Specific Files
+/uploads/
